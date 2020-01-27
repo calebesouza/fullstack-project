@@ -20,7 +20,7 @@
 		<io-rest-assured.version>4.0.0</io-rest-assured.version>
 		<h2database-version>1.4.199</h2database-version>
 		<springframework-boot-version>2.1.7.RELEASE</springframework-boot-version>
-		<jackson-databind-version>2.9.9.3</jackson-databind-version>
+		<jackson-databind-version>2.9.10.1</jackson-databind-version>
 	</properties>
 	
 	<!-- 
